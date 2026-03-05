@@ -7,15 +7,15 @@ body{
     background: url('img/IA.jpg') no-repeat;
     background-size: cover;
     }
-a{
+p a{
     color: lightcyan;
     text-decoration: none;
 }
-a:hover{
+p a:hover{
     color: black; 
     text-decoration:underline white;      
 }
-a:visited{
+p a:visited{
     color:lightblue;
 }
 .box{
@@ -71,4 +71,5 @@ a:visited{
     transform: scale(1.1);
 
 }
+
 
