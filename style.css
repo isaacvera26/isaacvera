@@ -11,7 +11,7 @@ body{
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: #489fb5;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -252,10 +252,10 @@ body{
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: -moz-linear-gradient(to right, #489fb5, #b74e91);
+				background-image: -webkit-linear-gradient(to right, #489fb5, #b74e91);
+				background-image: -ms-linear-gradient(to right, #489fb5, #b74e91);
+				background-image: linear-gradient(to right, #489fb5, #b74e91);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -344,7 +344,7 @@ body{
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #b74e91;
+							background-color: #489fb5;
 						}
 
 		}
@@ -418,8 +418,8 @@ p a:visited{
 .box ul li a:hover{
     color: #b9b9b9;
     transform: scale(1.1);
-
 }
+ 
 
 
 
