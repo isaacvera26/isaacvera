@@ -348,11 +348,11 @@ body{
 						}
 
 		}
-
+		/* Responsive para celulares */
 		@media screen and (max-width: 736px) {
 
 			#sidebar {
-				display: none;
+				display: flex;
 			}
 
 		}
@@ -420,6 +420,7 @@ p a:visited{
     transform: scale(1.1);
 }
  
+
 
 
 
